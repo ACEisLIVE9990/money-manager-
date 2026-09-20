@@ -1,0 +1,6 @@
+{
+  "name": "Weekly Budget Planner",
+  "description": "A 100% local, offline-first weekly personal finance and budget planner to track money in, money out, category budgets, and checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
